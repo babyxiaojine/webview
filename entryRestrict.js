@@ -1,4 +1,4 @@
-// 暂时封装的输入限制插件
+// 封装的输入限制插件
 $.fn.extend({
     entryRestrict:function(option){
         var opt={
